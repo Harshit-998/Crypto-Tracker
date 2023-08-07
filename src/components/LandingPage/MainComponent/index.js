@@ -17,7 +17,7 @@ const MainComponent = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Track Crypto
+          Watch Crypto
         </motion.h1>
 
         <motion.h1
