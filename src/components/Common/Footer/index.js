@@ -14,7 +14,7 @@ function Footer() {
   return (
     <div className="footer">
       <h2 className="logo" onClick={() => topFunction()}>
-        CryptoTracker<span>.</span>
+        CoinWatch<span>.</span>
       </h2>
       <div className="social-links">
         <Link to="https://facebook.com">
